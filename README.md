@@ -5,4 +5,4 @@
   <li>Lost and found animals</li>
   <li>Vet appointments</li>
 </ul>
-<h3>Adopt don't shop</h3>
+<h3>Adopt don't shop - animal rescue and adoption </h3>
